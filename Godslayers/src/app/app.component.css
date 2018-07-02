@@ -412,7 +412,7 @@ h1{
         -moz-transform:translateY(0)}
 }
 
-.info{position:relative;padding:80px 0 100px 0;margin: 100px 365px 0 265px ;width:calc(100% - 555px);height:335px;background-color:rgba(21,240,250,0.1);}
+.info{position:relative;padding:80px 0 100px 0;margin: 100px 365px 0 265px ;width:calc(100% - 555px);height:52%;background-color:rgba(21,240,250,0.1);}
 .info h3{margin:30px 0 0 100px;display:inline-block;font-size:18px;}
 
 .decorate_left_top{position:absolute;left:-60px;top:-60px;}
