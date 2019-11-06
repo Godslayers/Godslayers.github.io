@@ -1,1 +1,1 @@
-# Mebiux Search UI.
+# Mebiux Search UI
